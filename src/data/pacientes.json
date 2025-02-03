@@ -1,0 +1,12 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "nombre": "Carlos Gomez",
+      "edad": 45,
+      "telefono": "987654321",
+      "email": "carlos.gomez@example.com",
+      "direccion": "Calle Ficticia 123"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan Perez",
+      "email": "juan@example.com",
+      "password": "$2a$10$lRqiF7LXC/ttrRPpm1PDROt4RZiFyPJjhECnl2twc4dwGQlNhVpNO",
+      "rol": "admin"
+    },
+    {
+      "id": 2,
+      "nombre": "Ejemplo",
+      "email": "ejemplo@email.com",
+      "password": "$2a$10$JS2dHrN1KYMn4l0UuRDqSer.vRYrjtAbovTjh5RvOL.pT5chhpe5O",
+      "rol": "admin"
+    },
+    {
+      "id": 3,
+      "nombre": "Savina",
+      "email": "gabbasavina@gmail.com",
+      "password": "$2a$10$lE4RmRYC6Zam0YCpb0814.FtC5I4z2IHs2sZj.W8Pb12uwYtORwza",
+      "rol": "admin"
+    },
+    {
+      "id": 4,
+      "nombre": "lucho",
+      "email": "lucho@gmail.com",
+      "password": "$2a$10$9cuFSpUSRh/GuiPfKknHGeX9YsOzL1PE3sDCo9I7oiPZ1HK7/jFBC",
+      "rol": "admin"
+    }
+  ]
+}
